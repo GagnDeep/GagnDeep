@@ -1,1 +1,1 @@
-![Metrics](https://github.com/GagnDeep/GagnDeep/blob/main/github-metrics.svg)
+![Metrics](https://github-readme-stats.vercel.app/api?username=GagnDeep&count_private=true&show_icons=true&theme=radical)
